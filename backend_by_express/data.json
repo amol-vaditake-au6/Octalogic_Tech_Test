@@ -1,0 +1,501 @@
+[{
+        "name": "TSX",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Rabbit",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "M3",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "E-Class",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Bravada",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Impreza",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Tucson",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Mazda6",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Q7",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "S-Series",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Venture",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "C70",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Mighty Max Macro",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Familia",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Cabriolet",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Roadster",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Cougar",
+        "type": "sedan",
+        "imgURL": "https://i0.wp.com/c.ndtvimg.com/2019-03/t14tsi4o_maruti-suzuki-ciaz_625x300_28_March_19.jpg?resize=1400%2C9999&ssl=1",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Aveo",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Xterra",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "EV1",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Jetta",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "FCX Clarity",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Coupe GT",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Tracer",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "C-Class",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Sentra",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Bronco II",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "ES",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Tacoma",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Sedona",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Sentra",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Genesis Coupe",
+        "type": "suv",
+        "imgURL": "https://imgd.aeplcdn.com/664x374/cw/ec/35455/Hyundai-Venue-Exterior-154436.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Passat",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Coachbuilder",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "G",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Hombre",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "F150",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "CLS-Class",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "9-3",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Celica",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "2500",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Sonata",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Quattroporte",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "928",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Mark VIII",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Type 2",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Sedona",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Oasis",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "Grand Caravan",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    },
+    {
+        "name": "S10",
+        "type": "hatchback",
+        "imgURL": "https://imgd.aeplcdn.com/600x337/cw/ec/37710/Maruti-Suzuki-Baleno-Right-Front-Three-Quarter-147420.jpg?wm=0",
+        "specification": [{
+            "fuelType": "diesel",
+            "seatingCapacity": 5,
+            "cc": 500
+        }]
+    }
+]
