@@ -24,5 +24,8 @@ FRONTEND
 
 Go to the directory/frontend and run as node server.js.
 and Go to https://localhost:3000.
+Now select a car and Enter a number of days and press button of get amount then in 
+alert massage you will get a total amount of rent of given days
 and You did it now enjoy carRental.com.
+
 ```
