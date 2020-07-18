@@ -3,10 +3,6 @@ import { getData } from "../redux/actions/carActions";
 import { connect } from "react-redux";
 
 class NavBar extends Component {
-  state = {
-    search: "pizza",
-  };
-
   async componentDidMount() {
     try {
       const response = await fetch("http://localhost:1234/car");
@@ -27,7 +23,7 @@ class NavBar extends Component {
         <div>
           <nav className="navbar navbar-dark bg-primary">
             <a href="http://localhost:3000" className="navbar-brand">
-              Carrents.Com
+              CarRents.Com
             </a>
             <form className="form-inline">
               <input
@@ -40,31 +36,14 @@ class NavBar extends Component {
               <button
                 className="btn btn-outline-success my-2 my-sm-0"
                 type="submit"
+                style={{ backgroundColor: "#28a745",color:"white" }}
               >
-                Search
+                <b>
+                  <em>Search</em>
+                </b>
               </button>
             </form>
           </nav>
-        </div>
-        <div>
-          {this.props.cars === null ? (
-            <h3>Loading</h3>
-          ) : (
-            <div
-              style={{
-                background: "#d48888",
-                width: 500,
-                hight: 200,
-                margin: "auto",
-                marginTop: 50,
-                padding: 50,
-              }}
-            >
-              <b>
-                <em>{this.props.cars}</em>
-              </b>
-            </div>
-          )}
         </div>
       </>
     );
