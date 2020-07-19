@@ -17,12 +17,12 @@
 ```
 BACKEND
 
-Go to the directory/backend and run as node server.js
+Go to the directory/backend and run as node app.js
 then backend will be run on port 1234 and if you are running it for first time ,then data seeding will be done automatically and you will get a msaage in a console.
 
 FRONTEND
 
-Go to the directory/frontend and run as node server.js.
+Go to the directory/frontend and run as npm start
 and Go to https://localhost:3000.
 Now select a car and Enter a number of days and press button of get amount then in 
 alert massage you will get a total amount of rent of given days
